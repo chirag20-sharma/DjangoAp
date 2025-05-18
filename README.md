@@ -1,2 +1,2 @@
-codeAlpha_task2
+DjangoAp
 
